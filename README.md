@@ -1,16 +1,18 @@
-## Hi there 👋
+# Clean Go Temizlik 🌿🧹
 
-<!--
-**cleangotemizlik/cleangotemizlik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bu depo, **Clean Go Temizlik** şirketinin web sitesini barındırmaktadır. GitHub Pages kullanılarak ücretsiz olarak yayınlanmaktadır.
 
-Here are some ideas to get you started:
+## 🌐 Canlı Demo  
+📌 [https://username.github.io/](https://username.github.io/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Özellikler  
+✅ Temizlik hizmetleri tanıtımı  
+✅ Araç ve ev temizliği hakkında bilgi  
+✅ Online randevu alma formu  
+✅ İletişim bilgileri  
+
+## 🚀 Kurulum  
+Bu projeyi yerel olarak çalıştırmak için:  
+1. **Depoyu klonlayın:**  
+   ```sh
+   git clone https://github.com/username/username.github.io.git
